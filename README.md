@@ -1,1 +1,1 @@
-# fastapi-user-management-crud-fastapi-oauth2
+# fastapi-user-auth-crud-fastapi-oauth2
